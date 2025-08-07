@@ -13,7 +13,7 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
    - Name
    - Location
    - Ratings
-   - Cuisine
+   - Cuisines
    - Cost
    - Votes, etc.
 
