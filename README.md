@@ -62,9 +62,13 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 
 ---
 
+
 ## 📌 Tools & Technologies
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Jupyter Notebook
 - Power BI
 - Git & GitHub
+
+## Screenshot/Demo
+Show what the dashboard looks like. - https://github.com/shrutishivhare769/Zomato-Data-Analysis-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.png
