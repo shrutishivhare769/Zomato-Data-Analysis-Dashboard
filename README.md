@@ -9,7 +9,7 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 ## 📌 Project Workflow
 
 1. **Dataset Collection**  
-   The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/zomato-restaurants-data) and contains details about restaurants in India, including:
+   The dataset was taken from [Kaggle](https://www.kaggle.com/datasets/darshangandhi/zomato-india-dataset?resource=download) and contains details about restaurants in India, including:
    - Name
    - Location
    - Ratings
@@ -31,10 +31,10 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 
 ## 📂 Files Included
 
-- `Zomato_Cleaning_Analysis.ipynb` – Jupyter Notebook for data cleaning & preprocessing
+- `ZomatoDataAnalysis.ipynb` – Jupyter Notebook for data cleaning & preprocessing
 - `ZomatoDashboard.pbix` – Power BI file (dashboard)
 - `README.md` – Project overview and documentation
-- `dataset.link` – Contains links to the raw & cleaned datasets
+- `datasetlink` – Contains links to the raw & cleaned datasets
 
 ---
 
@@ -42,9 +42,9 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 
 | File Type        | Description            | Link |
 |------------------|------------------------|------|
-| Raw Dataset       | Original dataset from Kaggle | [📥 Kaggle Dataset](https://www.kaggle.com/datasets/PromptCloudHQ/zomato-restaurants-data) |
-| Cleaned Dataset   | Cleaned `.xlsx` file from Jupyter | [📥 Download from Google Drive](https://drive.google.com/your-cleaned-dataset-link) |
-| Power BI Dashboard | Final dashboard `.pbix` file | [📊 View/Download Dashboard](https://drive.google.com/your-dashboard-link) |
+| Raw Dataset       | Original dataset from Kaggle | [📥 Kaggle Dataset](https://www.kaggle.com/datasets/darshangandhi/zomato-india-dataset?resource=download) |
+| Cleaned Dataset   | Cleaned `.xlsx` file from Jupyter | [📥 Download from Google Drive](https://docs.google.com/spreadsheets/d/1BZPBusa_wJoFHbcOXi9fX9EsRFNuTomT/edit?usp=sharing&ouid=103000238047034750178&rtpof=true&sd=true) |
+| Power BI Dashboard | Final dashboard `.pbix` file | [📊 View/Download Dashboard](https://drive.google.com/file/d/1QaQELBqgIjmTeTv6DB1nPXH2VqmyRD-K/view?usp=sharing) |
 
 > ⚠️ **Note:** The Power BI dashboard file is too large to preview directly on GitHub.  
 > You can still download it by clicking on **"View Raw"** in the GitHub file view, or directly from the **Google Drive link** provided above.
