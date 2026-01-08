@@ -47,6 +47,10 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 | Power BI Dashboard | Final dashboard `.pdf` file |   👉 [ZomatoDashboard.pdf](file:///C:/Users/user/AppData/Local/Temp/Power%20BI%20Desktop/print-job-fdea500b-43ab-42) |
 
 ---
+>> Note
+The interactive dashboard was created in Power BI. For security, a PDF version is shared here.  
+Screenshots in the PDF show all visualizations, measures, and key filters used.
+>> 
 
 ## 📊 Dashboard Features
 
