@@ -44,7 +44,7 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 |------------------|------------------------|------|
 | Raw Dataset       | Original dataset from Kaggle | [📥 Kaggle Dataset](https://www.kaggle.com/datasets/darshangandhi/zomato-india-dataset?resource=download) |
 | Cleaned Dataset   | Cleaned `.xlsx` file from Jupyter | [📥 Download from Google Drive](https://docs.google.com/spreadsheets/d/1BZPBusa_wJoFHbcOXi9fX9EsRFNuTomT/edit?usp=sharing&ouid=103000238047034750178&rtpof=true&sd=true) |
-| Power BI Dashboard | Final dashboard `.pdf` file |   👉 [ZomatoDashboard.pdf](file:///C:/Users/user/AppData/Local/Temp/Power%20BI%20Desktop/print-job-fdea500b-43ab-42) |
+| Power BI Dashboard | Final dashboard `.pdf` file |   👉 [ZomatoDashboard.pdf](file:///C:/Users/user/OneDrive/Downloads/ZomatoDashboard.pdf) |
 
 ---
 >> Note
