@@ -44,12 +44,14 @@ The analysis was performed using **Python (Jupyter Notebook)** and the dashboard
 |------------------|------------------------|------|
 | Raw Dataset       | Original dataset from Kaggle | [📥 Kaggle Dataset](https://www.kaggle.com/datasets/darshangandhi/zomato-india-dataset?resource=download) |
 | Cleaned Dataset   | Cleaned `.xlsx` file from Jupyter | [📥 Download from Google Drive](https://docs.google.com/spreadsheets/d/1BZPBusa_wJoFHbcOXi9fX9EsRFNuTomT/edit?usp=sharing&ouid=103000238047034750178&rtpof=true&sd=true) |
-| Power BI Dashboard | Final dashboard `.pdf` file |   👉 [ZomatoDashboard.pdf](file:///C:/Users/user/OneDrive/Downloads/ZomatoDashboard.pdf) |
+| Power BI Dashboard | Final dashboard `.pdf` file |   👉 [ZomatoDashboard.pdf]("file:///C:/Users/user/OneDrive/Downloads/ZomatoDashboard.pdf") |
 
 ---
->> Note
+>>
+Note
 The interactive dashboard was created in Power BI. For security, a PDF version is shared here.  
 Screenshots in the PDF show all visualizations, measures, and key filters used.
+
 >> 
 
 ## 📊 Dashboard Features
